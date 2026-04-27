@@ -1,2 +1,3 @@
-# ios6
-Generated landing page: ios6
+# Apple Gift Card
+
+Generated landing page.
